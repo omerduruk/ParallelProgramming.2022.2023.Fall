@@ -61,3 +61,6 @@ MENDERES (Selahattin Deniz Döktür, Efecan Erdem)
 Saygın Efe Yıldız
 
 SF (Samet Şengün, Furkan Soylek)
+
+# Strategy: Monitors Solution
+Tayland - Ako (Akif TUNÇ - Ömer Taylan DURUK)
